@@ -1,0 +1,11 @@
+Minecraft
+Objective: De enderdragon verslaan
+Conflict: Je moet overlefen en spullen verzamelen om naar de end te gaan en het te overleven
+Players: Je kan het in je eentje of met meerdere mensen spelen 
+Resources: Je hartjes en de spullen die je hebt verzameld
+
+Hollowknight
+Objective: De eindbaas verslaan
+Conflict: De enemies die je proberen te stoppen
+Players: jij zelf
+Resources: de muntjes die je hebt verzameld
